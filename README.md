@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # I'm Akinola Gabriel Temitope 👋🏼
 
 <br/>
-I am grateful that right now my biggest problems is ensuring I add more value to a peoples's live.
+I am grateful that right now my biggest problems is ensuring I add more values to peoples's lives.
 
 <br/>
 "Maybe The Real Treasure Was the Friends We Made Along the Way"
