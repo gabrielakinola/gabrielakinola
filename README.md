@@ -34,7 +34,7 @@ Software Engineer with over 1 year of experience with Node.js, Express. I have k
 
 <br/>
 
-- Work @[Escape Technologies].
+- Work @[CampusPay](https://www.campuspay.ng).
 
 <br/>
 <br/>
