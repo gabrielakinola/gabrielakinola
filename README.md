@@ -26,7 +26,7 @@ I am grateful that right now my biggest problem is ensuring I add more values to
 <br/>
 <br/>
 
-Software Engineer with over 1 year of experience with Node.js, Express. I have knowledge of Git, AWS, APIs, Linux, DBs (relational and non-relational).
+Software Engineer with over 1 year of experience with Node.js, Express. I have knowledge of Git, AWS, APIs, Linux, DBs (non-relational).
 <br/>
 <br/>
 
